@@ -1,9 +1,9 @@
 const linksSocialMedia = {
   github: 'Gustavo9992',
   youtube: 'channel/UC-R61f3BaojzMLeaULuJYxA/featured',
-  facebook: 'GustavoPetrocelli',
-  instagram: 'gupetrocelli',
-  twitter: 'maykbrito'
+  facebook: 'facebook',
+  instagram: 'instagram',
+  twitter: 'twitter'
 }
 
 function changeSocialMediaLinks() {
