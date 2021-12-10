@@ -1,6 +1,6 @@
 const linksSocialMedia = {
   github: 'Gustavo9992',
-  youtube: 'channel/UC-R61f3BaojzMLeaULuJYxA/featured',
+  youtube: 'Youtube',
   facebook: 'facebook',
   instagram: 'instagram',
   twitter: 'twitter'
